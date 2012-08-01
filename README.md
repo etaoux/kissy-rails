@@ -1,11 +1,11 @@
 # kissy-rails
 
-Kissy! For Rails! So great.
+[Kissy](https://github.com/kissyteam/kissy) ! For Rails! So great.
 
 This gem provides:
 
-  * Kissy 1.2.0
-  * the Kissy UJS adapter
+  * [Kissy](https://github.com/kissyteam/kissy) 1.2.0
+  * the kissy_ujs adapter
 
 ## Installation
 
