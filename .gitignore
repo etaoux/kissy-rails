@@ -1,4 +1,5 @@
 pkg/*
+.DS_Store
 tmp
 spec/support/*/Gemfile.lock
 spec/support/*/public/javascripts
